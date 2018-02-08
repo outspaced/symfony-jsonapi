@@ -28,5 +28,11 @@
     },
     "config": {
         "preferred-install": "dist"
+    },
+    "repositories": {
+        "php-json-api": {
+            "type": "git",
+            "url": "https://github.com/outspaced/php-json-api"
+        }
     }
 }
